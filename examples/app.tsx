@@ -9,6 +9,7 @@ import {
   Link,
 } from 'react-router';
 import AppView from './app_view';
+import IndexView from './index_view';
 
 ReactDOM.render(
   <Router history={hashHistory}>

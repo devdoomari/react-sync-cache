@@ -7,11 +7,7 @@ import {
   Link,
 } from 'react-router';
 
-interface ScrollSyncCacheProps {
-  
-}
-
-export default class ScrollSyncCache extends Component<{}, {}>{
+export default class IndexView extends Component<{}, {}>{
   render() {
     return (
       <div>
